@@ -36,4 +36,4 @@ My AI research interests include image and video analysis, graph-based deep lear
 
 **Email remark**
 
-If you have an offer, opportunity, or introduction that might make my life more interesting, then definitely e-mail me at `katdare.swanand [at] gmail.com` . I’ll only respond to those proposals that are a good match for my schedule and interests.
+If you have an offer, opportunity, or introduction that might make my life more interesting, then definitely e-mail me at `katdare.swanand@gmail.com` . I’ll only respond to those proposals that are a good match for my schedule and interests.
