@@ -31,7 +31,7 @@ My AI research interests include image and video analysis, graph-based deep lear
 **Core projects**
 - Responsible for creation of AI backend at [ENAP Studio](https://edgeneural.ai/enap_studio/) 
 
-![What can I Do]((https://user-images.githubusercontent.com/27481312/186870966-b25f85a1-f796-4b89-aa04-561a74f5e7d0.png)
+![What can I Do](https://user-images.githubusercontent.com/27481312/186870966-b25f85a1-f796-4b89-aa04-561a74f5e7d0.png)
 
 
 **Email remark**
